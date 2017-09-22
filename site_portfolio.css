@@ -1,0 +1,177 @@
+body {
+	background-color: black;
+}
+
+.parte1 img {
+	max-width: 1500px;
+	height: auto;
+}
+
+.parte2 {
+	display: inline-flex;
+}
+
+.qualificacao {
+	background-color: #88d8b0;
+	margin-top: 15px;
+	margin-right: 20px;
+	width: 430px;
+	height: 270px;
+}
+
+.nascimento {
+	background-color: #ffcc5c;
+	display: inline-flex;
+	margin-top: 15px;
+	width: 1050px;
+}
+
+.nascimento_texto p {
+	font-size: 24px;
+	margin-right: 10px;
+}
+
+.nascimento_imagem img {
+	max-height: 265px;
+	width: auto;
+}
+
+.parte3 {
+	display: inline-flex;
+	background-color: #ff6f69;
+	width: 1500px;
+	margin-top: 15px;
+}
+
+.escola_texto p {
+	font-size: 22px;
+	margin-right: 30px;
+}
+
+.escola_imagem img {
+	max-height: 350px;
+	width: auto;
+}
+
+.parte4 {
+	display: inline-flex;
+	margin-top: 15px;
+}
+
+.cursinho {
+	background-color: #ffeead;
+	margin-right: 20px;
+	display: inline-flex;
+	width: 740px;
+}
+
+.cursinho_imagem img {
+	max-height: 300px;
+	width: auto;
+	margin-right: 30px;
+}
+
+.cursinho_texto p {
+	font-size: 24px;
+}
+
+.trabalho1 {
+	background-color: #42eae5;
+	display: inline-flex;
+	width: 740px;
+}
+
+.trabalho1_imagem img {
+	max-height: 300px;
+	width: auto;
+	margin-right: 30px;
+}
+
+.trabalho1_texto p {
+	font-size: 23px;
+}
+
+.parte5 {
+	background-color: #4fd64b;
+	display: inline-flex;
+	margin-top: 15px;
+	width: 1500px;
+}
+
+.ufsc img {
+	max-height: 250px;
+	width: auto;
+	margin-right: 30px;
+}
+
+.conquista p {
+	font-size: 24px;
+}
+
+.usp img {
+	height: 250px;
+	width: auto;
+}
+
+.parte6 {
+	display: inline-flex;
+	margin-top: 15px;
+}
+
+.graduacao {
+	background-color: #ffcc5c;
+	margin-right: 20px;
+	display: inline-flex;
+	width: 550px;
+}
+
+.graduacao_imagem img {
+	max-height: 200px;
+	width: auto;
+	margin-right: 30px;
+	margin-top: 25px;
+}
+
+.graduacao_texto p {
+	font-size: 26px;
+}
+
+.trabalho2 {
+	background-color: #ffd0e8;
+	display: inline-flex;
+	width: 930px;
+}
+
+.trabalho2_imagem img {
+	max-height: 200px;
+	width: auto;
+	margin-right: 30px;
+	margin-top: 25px;
+}
+
+.trabalho2_texto p {
+	font-size: 20px;
+}
+
+.parte7 {
+	display: inline-flex;
+	background-color: #88d8b0;
+	width: 1500px;
+	margin-top: 15px;
+}
+
+.decisao_texto p {
+	font-size: 22px;
+	margin-right: 30px;
+}
+
+.decisao_imagem img {
+	height: 240px;
+	width: auto;
+}
+
+.parte8 img {
+	max-width: 1500px;
+	height: auto;
+	margin-top: 15px;
+}
